@@ -1,0 +1,20 @@
+{
+  "name": "hotpick/category-highlight-slider",
+  "require": {
+    "magento/framework": "*",
+    "magento/module-page-builder": "*",
+    "php": ">=7.0.0"
+  },
+  "type": "magento2-module",
+  "authors": [
+    {
+      "name": "Yevhenii Romaniuk",
+      "email": "hotpick18@gmail.com"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
