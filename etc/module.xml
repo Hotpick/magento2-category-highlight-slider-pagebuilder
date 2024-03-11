@@ -3,6 +3,9 @@
     <module name="Hotpick_CategoryHighlightSlider">
         <sequence>
             <module name="Magento_PageBuilder"/>
+            <module name="Magento_Customer"/>
+            <module name="Magento_Catalog"/>
+            <module name="Magento_Framework"/>
         </sequence>
     </module>
 </config>
